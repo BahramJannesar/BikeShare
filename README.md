@@ -1,5 +1,5 @@
 # Bike-share
-  In this project, you will make use of Python to explore data related to bike share systems for three major cities in the     United States—Chicago, New York City, and Washington. You will write code to import the data and answer interesting           questions about it by computing descriptive statistics. You will also write a script that takes in raw input to create an     interactive experience in the terminal to present these statistics.
+  In this project, i made use of Python to explore data related to bike share systems for three major cities in the     United States—Chicago, New York City, and Washington. i wrote code to import the data and answer interesting           questions about it by computing descriptive statistics. i also wrote a script that takes in raw input to create an     interactive experience in the terminal to present these statistics.
 
 ![Image of Divvy](https://github.com/BahramJannesar/Bike-share/blob/master/image/divvy.jpg)
 [link to wikipedia!](https://en.wikipedia.org/wiki/Divvy)
@@ -9,7 +9,7 @@ Over the past decade, bicycle-sharing systems have been growing in number and po
 
 Thanks to the rise in information technologies, it is easy for a user of the system to access a dock within the system to unlock or return bicycles. These technologies also provide a wealth of data that can be used to explore how these bike-sharing systems are used.
 
-In this project, you will use data provided by [Motivate](https://www.motivateco.com/), a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. You will compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
+In this project, i used data provided by [Motivate](https://www.motivateco.com/), a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. You will compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
 
 # The Datasets
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
@@ -59,5 +59,8 @@ The original files are much larger and messier, and you don't need to download t
 
 # The Files
 **chicago.csv**
-**new_york_city.csv **
+
+**new_york_city.csv**
+
 **washington.csv**
+
