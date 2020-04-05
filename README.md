@@ -27,3 +27,7 @@ The Chicago and New York City files also have the following two columns:
 * Birth Year
 
 ![Image of dataset](https://github.com/BahramJannesar/Bike-share/blob/master/image/nyc-data.png)
+
+# Download Datasets
+
+The original files are much larger and messier, and you don't need to download them, but they can be accessed here if you'd like to see them ([Chicago](https://www.divvybikes.com/system-data), [New York City](https://www.citibikenyc.com/system-data), [Washington](https://www.capitalbikeshare.com/system-data)). These files had more columns and they differed in format in many cases.
