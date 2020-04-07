@@ -64,3 +64,5 @@ The original files are much larger and messier, and you don't need to download t
 
 **washington.csv**
 
+# License
+See full license on [this](https://opensource.org/licenses/MIT) , Under MIT License 
